@@ -1,6 +1,6 @@
 # Mangá Crawler
 
-API to crawling and get mangás from websites.
+Functional API to crawling and get mangás from websites.
 
 ## Available scripts
 
